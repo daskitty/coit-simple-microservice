@@ -47,12 +47,12 @@
 		<repository>
 			<id>coit_backend1_relaese</id>
 			<name>coit_backend1_relaese</name>
-			<url>http://65.0.109.222:8081/repository/coit_backend1_relaese/
+			<url>http://65.0.109.222:8081/repository/coit_backend1_relaese/</url>
 		</repository>
 		<snapshotRepository>
 			<id>coit-backend1_snapshot</id>
 			<name>coit-backend1_snapshot</name>
-			<url>http://65.0.109.222:8081/repository/coit-backend1_snapshot/
+			<url>http://65.0.109.222:8081/repository/coit-backend1_snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
